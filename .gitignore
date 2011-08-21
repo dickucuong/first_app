@@ -1,0 +1,4 @@
+.bundle
+db/*.mysql
+log/*.log
+tmp/
